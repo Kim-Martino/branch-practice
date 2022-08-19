@@ -1,2 +1,0 @@
-print('Pika!')
-print('Chu!')
